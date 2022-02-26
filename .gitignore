@@ -1,0 +1,7 @@
+Banana_Linux*
+VisualBanana_Linux*
+
+*.log
+
+Navigation_Pixels.ipynb
+train_pixels.py
